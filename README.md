@@ -2,7 +2,7 @@
 
 **`Passionate about advancing in AI`**
 
-Pre-Final Year Student @ BIT Mesra | Gen AI | Deep Learning with Pytorch 
+Full-Stack AI Developer | Final Year Student @ BIT Mesra | Gen AI | Deep Learning with Pytorch 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/suyash-jdhv/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram)](https://www.instagram.com/suyash_jdhv/)
