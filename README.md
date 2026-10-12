@@ -1,4 +1,4 @@
-# 🕸️ Suyash Jadhav
+# Suyash Jadhav
 
 **`Passionate about advancing in AI`**
 
