@@ -13,12 +13,12 @@
 
 I build AI-powered products end to end, from the model and retrieval layer to the queues, APIs and databases that keep them reliable in production. I enjoy the point where LLMs meet solid backend engineering: async pipelines, caching, idempotency, schema validation and measurable evaluation.
 
-- 🔬 **Research Intern (Machine Learning)** at the Department of Computer Science, BIT Mesra, building **AgriAid**, a multimodal crop-disease advisory pipeline
-- 🧠 Previously a **Freelance AI Engineer**, building a RAG course and curriculum generator with LangChain, DSPy, ChromaDB and Pinecone
-- 🏗️ Currently focused on **backend and AI systems**: event sourcing, job queues, LLM pipelines, evaluation harnesses
-- 🎓 B.Tech in Computer Science and Engineering, BIT Mesra (2023 – 2027), CGPA 8.13/10
-- 🤝 Open to collaborating on **multimodal intelligence systems** and **AI-native backend products**
-- 📫 Reach me at **suyashjadhav1603@gmail.com**
+- **Research Intern (Machine Learning)** at the Department of Computer Science, BIT Mesra, building **AgriAid**, a multimodal crop-disease advisory pipeline
+- Previously a **Freelance AI Engineer**, building a RAG course and curriculum generator with LangChain, DSPy, ChromaDB and Pinecone
+- Currently focused on **backend and AI systems**: event sourcing, job queues, LLM pipelines, evaluation harnesses
+- B.Tech in Computer Science and Engineering, BIT Mesra (2023 – 2027), CGPA 8.13/10
+- Open to collaborating on **multimodal intelligence systems** and **AI-native backend products**
+- Reach me at **suyashjadhav1603@gmail.com**
 
 ---
 
