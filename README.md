@@ -194,7 +194,7 @@ I build AI-powered products end to end, from the model and retrieval layer to th
 
 **Tech Stack:** React 19, Express 5, MongoDB, Gemini API, Razorpay
 
-**🔗 Live Demo:** [mediversal-tf2h.vercel.app](https://mediversal-tf2h.vercel.app)
+**Live Demo:** [mediversal-tf2h.vercel.app](https://mediversal-tf2h.vercel.app)
 
 ---
 
