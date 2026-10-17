@@ -223,7 +223,7 @@ I build AI-powered products end to end, from the model and retrieval layer to th
 
 ---
 
-## Competitive Programming & Achievements
+## Achievements
 
 - **500+** Data Structures & Algorithms problems solved on LeetCode, GeeksforGeeks and Code360
 - Smart India Hackathon (SIH) internal-round finalist, BIT Mesra
