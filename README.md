@@ -30,9 +30,6 @@
 - **Software Engineer Intern (Backend & AI Agents) at Indunex AI**: built a DAG-based workflow engine and agentic automation for a manufacturing ERP
 - **Research Intern (ML), BIT Mesra**: lifted a potato disease classifier from **69.94% to 86.06%** accuracy in the AgriAid project
 - **IntervAI** is used by **100+ students** for AI-powered interview prep
-- **500+ DSA problems** solved on LeetCode, GeeksforGeeks and Code360
-- **Smart India Hackathon (SIH)** internal-round finalist, BIT Mesra
-- Qualified **JEE Main and Advanced 2023**, with a top 3% category rank in JEE Main on the first attempt
 
 ---
 
